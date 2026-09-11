@@ -1,0 +1,29 @@
+<!DOCTYPE html>
+<html lang="fr">
+<head>
+  <meta charset="UTF-8">
+  <title>SASP Nord — Gang and Narcotics Division</title>
+  <link rel="stylesheet" href="style.css">
+</head>
+<body>
+  <header>
+    <h1>SASP Nord — Gang and Narcotics Division</h1>
+    <p>Système de gestion des enquêtes — Accréditation requise</p>
+  </header>
+
+  <section class="stats">
+    <div class="card">Enquêtes en cours: 0</div>
+    <div class="card">Classées: 0</div>
+    <div class="card">Cold cases: 0</div>
+    <div class="card">Total dossiers: 0</div>
+  </section>
+
+  <section class="filters">
+    <!-- filtres type : statut, type, gang -->
+  </section>
+
+  <section class="cases">
+    <!-- liste des dossiers -->
+  </section>
+</body>
+</html>
